@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Eduardo Zepeda
 
 ¡Bienvenido a mi perfil de GitHub! 🚀 Aquí encontrarás una colección de proyectos y experimentos.🛠️
 
