@@ -31,8 +31,8 @@
 ---
 
 ### 📈 Estadísticas de GitHub
-![Tu Nombre's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoZepedaDev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoZepedaDev&layout=compact&theme=radical)
+![Tu Nombre's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoZepedaDev&show_icons=true&theme=red)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoZepedaDev&layout=compact&theme=red)
 
 ---
 
