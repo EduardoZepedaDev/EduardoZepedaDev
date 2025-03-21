@@ -43,7 +43,7 @@
 ---
 
 ### 📫 Conéctate conmigo
-- **LinkedIn**: [LinkedIn](www.linkedin.com/in/eduardo-zepeda-cezm)
+- **LinkedIn**: [LinkedIn](www.linkedin.com/in/cezm)
 - **Instagram**: [_eduardomelendez23](https://www.instagram.com/_eduardomelendez23/)
 - **Correo electrónico**: [eduardozepeda2301@grupolamat.com](mailto:eduardozepeda2301@gmail.com)
 
