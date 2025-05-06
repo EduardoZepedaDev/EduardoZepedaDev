@@ -6,7 +6,7 @@
 
 ### 🌱 Sobre mí
 - **🎓 Profesión**: Ingeniero de Software
-- **📍 Ubicación**: Villahermosa, Tabasco.
+- **📍 Ubicación**: Corregidora, Queretaro.
 - **💻 Tecnología favorita**: React, Node.js/Express y JavaScript.
 - **💡 Intereses**: Desarrollo Web
 - **📚 Actualmente aprendiendo**: Astro
